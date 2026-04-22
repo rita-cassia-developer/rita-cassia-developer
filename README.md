@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou a Rita de Cássia Calixto 👋
 
-<!--
-**rita-cassia-developer/rita-cassia-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Desenvolvedora Web Front-End | Estudante de Gestão de TI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonada por transformar problemas de negócios em soluções reais através do código. Atualmente, foco meus estudos em tecnologias modernas de Front-End para criar interfaces incríveis e funcionais!
+
+- 🚀 Estudando: React, JavaScript Moderno e metodologias ágeis.
+- 💼 Buscando oportunidades como Desenvolvedora Front-End Jr.
+- 📍  Localizada em: Califórnia - PR.
+
+### 🛠️ Habilidades:
+- 🌐 *HTML5* 
+- 🎨 *CSS3* 
+- ⚡ *JavaScript* 
+
+---
+📫 **Como me encontrar:**
+[LinkedIn](https://www.linkedin.com/in/rita-de-cassia99) | [E-mail](cassiarita0599@gmail.com) 
+
