@@ -7,7 +7,7 @@ Sou apaixonada por transformar problemas de negócios em soluções reais atrav�
 
 - 🚀 Estudando: React, JavaScript Moderno e metodologias ágeis.
 - 💼 Buscando oportunidades como Desenvolvedora Front-End ou estagiária, de preferência na modalidade remoto.
-- 📍  Localizada em: Califórnia - PR.
+- 📍  Localizada em: Apucarana - PR.
 
 ### 🛠️ Habilidades:
 - 🌐 *HTML5* 
