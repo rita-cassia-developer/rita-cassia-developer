@@ -12,7 +12,9 @@ Sou apaixonada por transformar problemas de negócios em soluções reais atrav�
 ### 🛠️ Habilidades:
 - 🌐 *HTML5* 
 - 🎨 *CSS3* (Flexbox|Grid)
-- ⚡ *JavaScript* 
+- ⚡ *JavaScript*
+- ⚛️ *React*
+- 🌐 *API & Backend*
 
 ---
 📫 **Como me encontrar:**
