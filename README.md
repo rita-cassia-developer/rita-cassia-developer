@@ -8,7 +8,7 @@ Muito dedicada aos estudos, levo o desenvolvimento muito a sério, pensando semp
 
 - 🚀 Estudando: React, JavaScript Moderno e metodologias ágeis. 
 - 💼 Buscando oportunidades como Desenvolvedora Front-End, de preferência na modalidade remoto.
-- 📍  Localizada em: Apucarana - PR.
+- 📍  Localizada em: Apucarana - PR | Disponível para trabalho remoto em qualquer lugar do Brasil.
 
 ### 🛠️ Habilidades:
 - 🌐 *HTML5* 
