@@ -7,7 +7,7 @@ Muito dedicada aos estudos, levo o desenvolvimento muito a sério, pensando semp
 Confira meus **projetos do portfólio,** tenho me dedicado muito aos **códigos.** 👩🏽‍🎓 [https://github.com/rita-cassia-developer?tab=repositories]
 
 ---
-### Disponível pra trabalho imediato
+### Disponível para trabalho imediato
 
 - 💼 Buscando oportunidades como Desenvolvedora Front-End, de preferência na modalidade remoto.
 - 📍  Localizada em: Apucarana - PR | Disponível para trabalho remoto em qualquer lugar do Brasil.
