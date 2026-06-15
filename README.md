@@ -10,7 +10,7 @@ Confira meus **projetos do portfólio,** tenho me dedicado muito aos **códigos.
 ### Disponível para trabalho imediato
 
 - 💼 Buscando oportunidades como Desenvolvedora Front-End, de preferência na modalidade remoto.
-- 📍  Localizada em: Apucarana - PR | Disponível para trabalho remoto em qualquer lugar do Brasil.
+- 📍  Localizada em: Califórnia - PR | Disponível para trabalho remoto em qualquer lugar do Brasil.
 
 ### 🛠️ Habilidades
 - 🌐 HTML5 
