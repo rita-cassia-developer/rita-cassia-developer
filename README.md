@@ -1,6 +1,6 @@
 # Olá, eu sou a Rita de Cássia Calixto 👋
 
-### Desenvolvedora Web Front-End | Estudante de Gestão de TI
+### Desenvolvedora Front-End Junior | Estudante de Gestão de TI
 
 Sou apaixonada por transformar problemas de negócios em soluções reais através do código. Atualmente, foco meus estudos em tecnologias modernas de Front-End para criar interfaces incríveis e funcionais!
 Muito dedicada aos estudos, levo o desenvolvimento muito a sério, pensando sempre em proporcionar a melhor experiência que o usuário possa ter.
