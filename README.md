@@ -1,15 +1,15 @@
 # Olá, eu sou a Rita de Cássia Calixto 👋
 
-### Desenvolvedora Full Stack Junior | Estudante de Gestão de TI
+### Desenvolvedora Front end com base em Full Stack | Estudante de Gestão de TI
 
-Sou apaixonada por transformar problemas de negócios em soluções reais, completas e eficientes através do código. Atualmente, foco o desenvolvimento de aplicações ponta a ponta (Full Stack), combinando interfaces modernas e responsivas no Front-End com arquiteturas estruturadas e seguras no Back-End. Confira meus projetos no portfólio para ver minhas soluções em ação: 💻 [Meus Projetos](https://github.com/rita-cassia-developer?tab=repositories)
+Sou apaixonada por transformar problemas de negócios em soluções reais, completas e eficientes através do código. Atualmente, foco o desenvolvimento de aplicações ponta a ponta (Full Stack), combinando interfaces modernas e responsivas no Front-End com arquiteturas estruturadas e seguras no Back-End. Confira meus projetos no portfólio para ver minhas soluções em ação: 💻 https://github.com/rita-cassia-developer?tab=repositories
 
 ---
 
 ### 🚀 Disponível para trabalho imediato
 
 * 💼 Buscando oportunidades como Desenvolvedora Full Stack Junior ou Front-End Junior.
-* 📍 Localizada em: Califórnia - PR | Totalmente disponível para trabalho remoto ou híbrido.
+* 📍 Localizada em: Califórnia - PR | Totalmente disponível para trabalho remoto ou presencial.
 
 ---
 
